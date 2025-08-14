@@ -1,7 +1,5 @@
 pandas
 matplotlib
 asyncio
-csv
-sys
 TikTokApi
 playwright
