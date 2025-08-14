@@ -3,3 +3,4 @@ matplotlib
 asyncio
 TikTokApi
 playwright
+TikTokApi==6.1.12
