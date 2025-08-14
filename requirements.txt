@@ -1,5 +1,6 @@
+TikTokApi
 pandas
 matplotlib
 asyncio
 playwright
-TikTokApi==6.1.12
+
