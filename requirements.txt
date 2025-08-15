@@ -1,6 +1,5 @@
 TikTokApi==7.1.0
+playwright
 pandas
 matplotlib
 asyncio
-playwright
-
