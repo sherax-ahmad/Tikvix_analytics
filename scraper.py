@@ -1,4 +1,6 @@
 # scraper.py
+import subprocess
+subprocess.run(["playwright", "install", "chromium"])
 
 import asyncio
 import csv
