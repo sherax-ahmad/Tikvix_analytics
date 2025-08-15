@@ -1,4 +1,4 @@
-TikTokApi
+TikTokApi==7.1.0
 pandas
 matplotlib
 asyncio
